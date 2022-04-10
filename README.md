@@ -5,6 +5,5 @@
 - 👐 I am student
 
 <!---
-Ramanguptah/Ramangupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hii i am Raman gupta i am studying in class 10 😊
 --->
